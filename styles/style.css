@@ -1,0 +1,109 @@
+body{
+	font-family: 'Montserrat', "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	background-image: url(../images/Fritata-BKG.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	background-size: cover;
+	background-attachment: fixed;
+	font-weight: 400;
+}
+
+#wrapper{
+  	width: 960px;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin: 25px auto;
+}
+
+#banner{
+	width: 100%;
+	display: block;
+}
+
+header{ 
+padding: 10px 30px;
+}
+
+#sidebar{
+	float: right;
+	width: 500px;
+	padding-left: 15px;
+}
+
+#main{
+	width: auto;
+	padding: 0px 45px 0px 45px;
+}
+
+footer{
+    clear: both;
+}
+
+figure{
+	padding-top: 20px;
+	}
+
+footer p, footer a{
+	text-align: center;
+	color: #0b7215;
+	text-decoration: none;
+}
+
+h1, h2{
+	font-family: "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color: #0b7215;
+}
+
+h1{
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 0 #bbd8bf;
+	padding-top: 20px;
+	font-weight: 800;
+}
+
+h2{
+	font-size: 22px;
+	text-shadow: 1px 3px 0 #bbd8bf;
+	font-weight: 400;
+	
+}
+
+ p{
+	text-align: center;
+}
+
+ul{
+	padding: 0px 20px;
+}
+ li{
+	padding:0px 5px;
+}
+
+ol{
+	padding: 0px 20px;
+	line-height: 24px;
+}
+
+.source{
+	font-size: 12px;
+	text-align: center;
+	padding-bottom: 20px;
+	color: #0b7215;
+}
+
+.autor{
+	font-weight: 500;
+	font-style: italic;
+	
+}
+
+figcaption{
+	font-size: 12px;
+}
+
+#list{ 
+	padding-top: 10px;
+}
